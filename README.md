@@ -4,10 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-lucas-da-silva-a7a370119//)](https://br.linkedin.com/in/diego-lucas-silva-a7a370119/)
 
 
-### Formação
-- Graduado em Sistemas de Informação na Universidade São Judas Tadeu
-
-### Certificação
+### Certifications
 - [Linux Essencials
 ](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000416658/y9rbzudkvn)
 - [AWS Certified Solutions Architect - Associate
