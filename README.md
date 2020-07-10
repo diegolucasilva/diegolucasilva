@@ -8,8 +8,10 @@
 - Graduado em Sistemas de Informação na Universidade São Judas Tadeu
 
 ### Certificação
-- [AWS Certified Solutions Architect - Associate
+- [Linux Essencials
 ](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000416658/y9rbzudkvn)
+- [AWS Certified Solutions Architect - Associate
+](https://www.youracclaim.com/badges/04533f73-18f7-4f27-be85-9184fa8d245c/linked_in_profile)
 - [AWS Certified Developer - Associate
 ](https://www.youracclaim.com/badges/b980a40b-61af-4f47-88cb-aa9c2b7afed6/linked_in_profile)
 - [Oracle Certified Associate, Java SE 8 Programmer
