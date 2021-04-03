@@ -14,4 +14,9 @@
 - [Oracle Certified Associate, Java SE 8 Programmer
 ](https://www.youracclaim.com/badges/d1730684-cdec-44ab-88d1-ef6640570901/linked_i)
 
+
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolucasilva&hide=TeX&layout=compact))&nbsp;&nbsp;
+
+---
+![Diegos's GitHub stats](https://github-readme-stats.vercel.app/api/?username=diegolucasilva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
